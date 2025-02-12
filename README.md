@@ -52,3 +52,13 @@ Antes de executar o projeto, certifique-se de ter instalado:
 
 A API estará disponível em `http://localhost:5000` (ou outra porta configurada).
 
+## 🎯 Como Executar os testes
+
+Para a Execucao dos teste unitarios é necessario o dowload das seguines bibliotecas
+
+**xUnit**
+**xUnit.runner.visualstudio**
+**Moq**
+
+apos instaldas basta apenas excutar todos os testes
+
