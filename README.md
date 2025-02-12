@@ -28,11 +28,11 @@ Antes de executar o projeto, certifique-se de ter instalado:
 ### Passos para rodar a aplicação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-de-notas.git
+   https://github.com/gs10111/TesteDevDtiBackEnd.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd sistema-de-notas
+   cd SistemaNotasFrequencia
    ```
 3. Restaure as dependências:
    ```bash
@@ -52,8 +52,3 @@ Antes de executar o projeto, certifique-se de ter instalado:
 
 A API estará disponível em `http://localhost:5000` (ou outra porta configurada).
 
-## 📖 Documentação da API
-A documentação da API pode ser acessada via **Swagger** em:
-```
-http://localhost:5000/swagger
-```
