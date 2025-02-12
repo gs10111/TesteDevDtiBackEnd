@@ -62,5 +62,5 @@ Para a Execucao dos teste unitarios é necessario o dowload das seguines bibliot
 
 **Moq**
 
-apos instaldas basta apenas excutar todos os testes
+Após instaladas, basta apenas executar todos os testes. Pressione Ctrl + R, A para executar todos os testes de uma vez na solução de teste.
 
