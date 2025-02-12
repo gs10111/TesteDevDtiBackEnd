@@ -54,7 +54,7 @@ A API estará disponível em `http://localhost:5000` (ou outra porta configurada
 
 ## 🎯 Como Executar os testes
 
-Para a Execucao dos teste unitarios é necessario o dowload das seguines bibliotecas
+Para a execução dos testes unitários, é necessário o download das seguintes bibliotecas.
 
 **xUnit**
 
