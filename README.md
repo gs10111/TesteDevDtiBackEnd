@@ -57,11 +57,3 @@ A documentação da API pode ser acessada via **Swagger** em:
 ```
 http://localhost:5000/swagger
 ```
-
-
-
-## 📜 Licença
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
----
-Desenvolvido por **[Seu Nome]** ✨
