@@ -26,6 +26,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 - **Visual Studio** 
 
 ### Passos para rodar a aplicação
+É possível apenas abrir a solução no Visual Studio, fazer a alteração da connection string e rodar a aplicação.
 1. Clone o repositório:
    ```bash
    https://github.com/gs10111/TesteDevDtiBackEnd.git
