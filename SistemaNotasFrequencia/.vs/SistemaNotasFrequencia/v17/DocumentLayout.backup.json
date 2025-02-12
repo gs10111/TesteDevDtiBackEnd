@@ -1,46 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\",
+  "WorkspaceRootPath": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedtidev\\sistemanotasfrequencia\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD0C6735-0CB0-4C9A-993F-016EA1659EB3}|..\\SistemaNotasFrequenciaTests\\SistemaNotasFrequenciaTests.csproj|c:\\repositorios\\testedevdtibackend\\sistemanotasfrequenciatests\\services\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedtidev\\sistemanotasfrequencia\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedtidev\\sistemanotasfrequencia\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedtidev\\sistemanotasfrequencia\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedtidev\\sistemanotasfrequencia\\services\\istudentservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:services\\istudentservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedtidev\\sistemanotasfrequencia\\services\\overviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:services\\overviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedtidev\\sistemanotasfrequencia\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedevdtibackend\\sistemanotasfrequencia\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedtidev\\sistemanotasfrequencia\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedevdtibackend\\sistemanotasfrequencia\\services\\overviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:services\\overviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedevdtibackend\\sistemanotasfrequencia\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedevdtibackend\\sistemanotasfrequencia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedevdtibackend\\sistemanotasfrequencia\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedtidev\\sistemanotasfrequencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedevdtibackend\\sistemanotasfrequencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedtidev\\sistemanotasfrequencia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedevdtibackend\\sistemanotasfrequencia\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedevdtibackend\\sistemanotasfrequencia\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedevdtibackend\\sistemanotasfrequencia\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|c:\\repositorios\\testedevdtibackend\\sistemanotasfrequencia\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506F9A63-E752-487D-A448-CD03B39B2ED1}|SistemaNotasFrequencia.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +53,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 366,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,25 +77,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IStudentService.cs.cs",
-              "DocumentMoniker": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Services\\IStudentService.cs.cs",
-              "RelativeDocumentMoniker": "Services\\IStudentService.cs.cs",
-              "ToolTip": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Services\\IStudentService.cs.cs",
-              "RelativeToolTip": "Services\\IStudentService.cs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "StudentServiceTests.cs",
+              "DocumentMoniker": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequenciaTests\\Services\\StudentServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\SistemaNotasFrequenciaTests\\Services\\StudentServiceTests.cs",
+              "ToolTip": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequenciaTests\\Services\\StudentServiceTests.cs",
+              "RelativeToolTip": "..\\SistemaNotasFrequenciaTests\\Services\\StudentServiceTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:55:42.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Services\\IStudentService.cs",
+              "ToolTip": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Services\\IStudentService.cs",
+              "RelativeToolTip": "Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T04:16:06.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Repositories\\StudentRepository.cs",
+              "DocumentMoniker": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Repositories\\StudentRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\StudentRepository.cs",
-              "ToolTip": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Repositories\\StudentRepository.cs*",
-              "RelativeToolTip": "Repositories\\StudentRepository.cs*",
+              "ToolTip": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "Repositories\\StudentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T04:15:32.586Z",
@@ -100,12 +116,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "OverviewDTO.cs",
-              "DocumentMoniker": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Services\\OverviewDTO.cs",
+              "DocumentMoniker": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Services\\OverviewDTO.cs",
               "RelativeDocumentMoniker": "Services\\OverviewDTO.cs",
-              "ToolTip": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Services\\OverviewDTO.cs*",
-              "RelativeToolTip": "Services\\OverviewDTO.cs*",
+              "ToolTip": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Services\\OverviewDTO.cs",
+              "RelativeToolTip": "Services\\OverviewDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T04:16:34.284Z",
@@ -113,63 +129,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Repositories\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IStudentRepository.cs",
-              "ToolTip": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Repositories\\IStudentRepository.cs*",
-              "RelativeToolTip": "Repositories\\IStudentRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T04:15:38.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Models\\Student.cs",
-              "ToolTip": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Models\\Student.cs",
-              "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T04:12:18.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Controllers\\StudentController.cs*",
-              "RelativeToolTip": "Controllers\\StudentController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T04:11:00.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Services\\StudentService.cs",
+              "DocumentMoniker": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "Services\\StudentService.cs",
-              "ToolTip": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Services\\StudentService.cs*",
-              "RelativeToolTip": "Services\\StudentService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Services\\StudentService.cs",
+              "RelativeToolTip": "Services\\StudentService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T04:16:18.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "MongoDbSettings.cs",
-              "DocumentMoniker": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Settings\\MongoDbSettings.cs",
+              "DocumentMoniker": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Settings\\MongoDbSettings.cs",
               "RelativeDocumentMoniker": "Settings\\MongoDbSettings.cs",
-              "ToolTip": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Settings\\MongoDbSettings.cs",
+              "ToolTip": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Settings\\MongoDbSettings.cs",
               "RelativeToolTip": "Settings\\MongoDbSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -178,28 +155,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Program.cs",
+              "DocumentMoniker": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T04:17:22.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\appsettings.json",
+              "DocumentMoniker": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\appsettings.json",
+              "ToolTip": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-12T04:23:30.373Z"
+              "WhenOpened": "2025-02-12T04:23:30.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:15:38.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:12:18.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:11:00.435Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\SistemaNotasFrequencia.csproj": {}
+    "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\SistemaNotasFrequencia.csproj": {}
   },
   "projects": {
-    "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\SistemaNotasFrequencia.csproj": {
+    "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\SistemaNotasFrequencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\SistemaNotasFrequencia.csproj",
+        "projectUniqueName": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\SistemaNotasFrequencia.csproj",
         "projectName": "SistemaNotasFrequencia",
-        "projectPath": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\SistemaNotasFrequencia.csproj",
+        "projectPath": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\SistemaNotasFrequencia.csproj",
         "packagesPath": "C:\\Users\\gsilv\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\obj\\",
+        "outputPath": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e+HolsoC+q4=",
+  "dgSpecHash": "mff36wXjmVU=",
   "success": true,
-  "projectFilePath": "C:\\Repositorios\\TesteDtiDev\\SistemaNotasFrequencia\\SistemaNotasFrequencia.csproj",
+  "projectFilePath": "C:\\Repositorios\\TesteDevDtiBackEnd\\SistemaNotasFrequencia\\SistemaNotasFrequencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gsilv\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\gsilv\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
