@@ -8,7 +8,6 @@ Aplicação desenvolvida em **.NET** para gerenciar alunos, disciplinas e notas.
 - **.NET** (versão 8.0)
 - **MongoDB** para armazenamento de dados
 - **MongoDB.Driver** para comunicação com o banco de dados
-- **MongoDB Compass** (para consulta dos dados)
 - **ASP.NET Core** para a API
 - **React** para o frontend 
 - **Swagger** para documentação da API
