@@ -5,7 +5,7 @@
 Aplicação desenvolvida em **.NET** para gerenciar alunos, disciplinas e notas. O objetivo do sistema é facilitar o acompanhamento do desempenho acadêmico, permitindo o cadastro, atualização e consulta de informações relacionadas aos alunos e suas notas.
 
 ## 🚀 Tecnologias Utilizadas
-- **.NET** (versão utilizada no projeto)
+- **.NET** (versão 8)
 - **MongoDB** para armazenamento de dados
 - **MongoDB.Driver** para comunicação com o banco de dados
 - **MongoDB Compass** (para consulta dos dados)
